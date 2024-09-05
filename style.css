@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.first a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 1);
+    ;
+    font-weight: bold;
+
+}
+ul{
+    list-style-type: none;
+
+}
+.first {
+    display: flex;
+
+}
+
+.first .ul1 img{
+    margin-left: 30px;
+    width: 129px;
+}
+
+
+.first .nav .ul2{
+    margin-left: 30px;
+    width: auto;
+    position: relative;
+    gap: 28px;
+    top: 23px;
+    right: -155px;
+    display: flex;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+
+.first .three ul{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    top: 23px;
+    right: -312px;
+
+
+}
+.first .three li:last-child a{
+    color: green;
+    padding: 7px 19px;
+    border: 1px solid transparent;
+
+    color: rgba(255, 255, 255, 1);
+    background: rgba(84, 184, 255, 1);
+
+
+
+}
+
+
+
+.second .group{
+    width: auto;
+    height: auto;
+    background-color: aqua;
+    position: relative;
+    top: 1rem;
+    left: 33rem;
+
+}
+.second .group img{
+  position: absolute;
+  width: 462px;
+  height: 411px;
+}
+
+.second .text{
+    position: relative;
+    top: 82px;
+    right: -114px;
+    width: 400px;
+}
+
+.second .text h6{
+    font-size: 14px;
+    letter-spacing: 4px;
+    color: rgba(47, 43, 113, 1);
+    margin-bottom: 16px;
+}
+.second .text h2{
+    font-size: 47px;
+    color: rgba(47, 43, 113, 1);
+    margin: 12px 0;
+    color: rgba(95, 89, 110, 1);
+    margin-left: -3px;
+    font-family: "Poppins", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 47px;
+
+}
+.second .text p{
+    color: #000000;
+
+    font-size: 17px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    font-family: "Poppins", system-ui;
+  font-weight: 500;
+  font-style: normal;
+
+
+}
+.second .text button{
+    padding: 13px 20px;
+    font-size: 20px;
+    border: 1px solid rgb(62, 12, 156);
+    background: linear-gradient(90deg, #54B8FF -1.36%, #54B8FF 105.62%);
+    border-radius: 2px;
+
+
+
+}
+
+.second .pic1{
+    position: relative;
+    top: -60px;
+    left: 282px;
+}
+.second .pic2{
+    position: relative;
+    top: -29rem;
+    left: 65rem;
+}
+.second .pic2 img {
+    width: 58px;
+    height: 112px;
+}
+.second .pic3  img {
+    width: 58px;
+    height: 112px;
+}
+.second .pic3{
+
+    position: relative;
+    top: -24rem;
+    left: 65rem;
+}
+.second .pic4  img {
+    width: 141px;
+    height: 177px;
+    rotate: 277deg;
+}
+.second .pic4{
+
+    position: relative;
+    top: -48rem;
+    left: -6rem;
+
+}
+.second .pic5  img {
+    width: 87px;
+    height: 88px;
+}
+.second .pic5{
+
+    position: relative;
+    top: -38rem;
+}
+.second .pic6  img {
+    width: 117px;
+    height: 152px;
+    position: relative;
+    top: -38rem;
+    left: 38rem;
+}
+.second .pic6{
+
+    position: relative;
+    top: 50%;
+}
+
+
+
+.th .image1{
+    width: 500px;
+    height: 500px;
+}
+.th .image1 img{
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: -42rem;
+    left: 2rem;
+}
+
+.th .text{
+    width: 40%;
+    height: auto;
+    position: relative;
+    top: -65rem;
+    left: 35rem;
+}
+.th .text h2{
+   font-size:39px;
+   margin-bottom: 20px;
+   font-family: "Poppins", system-ui;
+   font-weight: 500;
+   font-style: normal;
+
+}
+.th .text p{
+
+   font-family: "Poppins", system-ui;
+   text-align: justify;
+
+   font-style: normal;
+   margin-bottom: 20px;
+
+}
+.th .text .vec{
+    position: relative;
+    top: -1rem;
+    left: 27rem;
+
+
+}
+.four{
+    display: flex;
+    position: relative;
+    top: -287px;
+    left: 390px;
+
+}
+.four div{
+    position: relative;
+    bottom: 64rem;
+    left: -27rem;
+
+
+}
+.four div img{
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+.four div h4{
+    position: relative;
+    top: 52%;
+    left: 50%;
+}
+.four div p{
+    position: relative;
+    top: 54%;
+    left: 50%;
+    width: 60%;
+}
+
+.un{
+
+    position: relative;
+    top: -60rem;
+    left: -54px;
+}
+.un1{
+
+    position: relative;
+    top: -52rem;
+    left: 54rem;
+}
