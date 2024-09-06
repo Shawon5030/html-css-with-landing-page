@@ -271,3 +271,11 @@ ul{
     top: -52rem;
     left: 54rem;
 }
+.five{
+    position: relative;
+    top: -60rem;
+    left: 63px;
+}
+.five img{
+    width: 90%;
+}
